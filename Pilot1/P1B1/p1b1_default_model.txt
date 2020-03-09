@@ -28,3 +28,4 @@ save_path='save'
 [Monitor_Params]
 solr_root=''
 timeout=3600
+tb=True
