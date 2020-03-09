@@ -3,3 +3,4 @@ sklearn
 matplotlib
 pandas
 requests
+numpy==1.12.0
